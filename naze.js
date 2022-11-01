@@ -3641,8 +3641,11 @@ let capt = `⭔ Title: ${judul}
             case 'rules': {
 rules = `╭──❍ *Rules BOT*
 │
-│ *Intinya Jangan Spam❗*
-│
+│ ɴᴏ ꜱᴘᴀᴍ ᴅᴇᴄᴋ❗
+│ 
+│ ᴊᴀɴɢᴀɴ ʟᴜᴘᴀ ᴊᴏɪɴ ɢᴄ ɢᴡ
+│ https://chat.whatsapp.com/LZi1txGKOzJ3lxzZzG2DxK
+│ 
 ╰────❍`
 let buttons = [{ buttonId: 'allmenu', buttonText: { displayText: '📖List Menu' }, type: 1 },{ buttonId: 'donasi', buttonText: { displayText: '👑Sewa' }, type: 1 }]
             await naze.sendButtonText(m.chat, buttons, rules, nyoutube, m, {quoted: fkontak})
