@@ -10,7 +10,7 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## My Project
-* New script to replace this script [`look here`](https://github.com/nazedev/naze-md) (`MULTI DEVICE `)
+* New script to replace this script [`look here`](https://github.com/AnggaXyzZ/angga-md) (`MULTI DEVICE `)
 * WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow) (SC ORI)
 * WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
 * WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/Hisoka-Morrou/hisoka-waweb.js/)
@@ -42,9 +42,8 @@ $cd angga-md
 $yarn
 $node index.js
 
-# Note
-$ hanyalah Pembatas Jadi
-Gk Usah Di Ikuti
+#Note | $ hanyalah Pembatas Jadi
+          Gk Usah Di Ikuti
 ```
 ## BUILDPACK
 
