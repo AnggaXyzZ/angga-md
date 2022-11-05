@@ -1,7 +1,4 @@
-# CATATAN ( NOTE )
-sc ini hanyalah hasil recode dari sc asli hisoka
-naze & angga hanya menghilangkat bug, memperbagus & menyeting banyak hal
-agar tidak terjadi error
+# <h1 align="center">AnggaXyzz</h1>
 
 #AnggaMD
 Script WhatsApp Bot Multi Device
@@ -9,10 +6,6 @@ Script WhatsApp Bot Multi Device
 ## NOTE
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
-<p align="center">
-	
-</p>
-<h1 align="center">AnggaXyzz</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
@@ -36,25 +29,21 @@ cd angga-md
 npm install
 ```
 
-## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
-
-* Create account and database in mongodb atlas [`watch here`](https://youtu.be/w1iMJS0ib-w)
-* when you already have a database, you just need to take mongourl
-* Put mongourl in Procfile `web: node . --db 'mongourl'`
-* Example `web: node . -- db 'Your Mongo URI'`
-
-
-
-## FOR TERMUX/UBUNTU/SSH USER
+## COMMAND SC TERMUX
 
 ```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-git clone https://github.com/AnggaXyzZ/angga-md
-cd naze
-npm install
+$pkg update && pkg upgrade
+$pkg install git -y
+$pkg install nodejs -y
+$pkg install ffmpeg -y
+$pkg install yarn
+$git clone https://github.com/AnggaXyzZ/angga-md
+$cd angga-md
+$yarn
+$node index.js
+
+#NOTE
+$ hanyalah Pembatas Jadi Gk Usah Di Ikuti
 ```
 ## BUILDPACK
 
@@ -75,7 +64,7 @@ $ node .
 Bot WhatsApp masih dalam tahap pengembangan, jadi ada beberapa bug
 Koneksi WhatsApp (BETA, tidak berfungsi dengan sempurna)
 
-Editing Number Owner in [`config.js`](https://github.com/nazedev/naze-md/blob/main/config.js)
+Editing Number Owner in [`config.js`](https://github.com/AnggaXyzZ/angga-md/blob/main/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
@@ -92,6 +81,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`bintang`](https://github.com/Bintangp02)
 * [`ArullOfc`](https://github.com/Warikrr)
 * [`Naze Dev`](https://github.com/nazedev)
+* [
 
 ```Thanks to all who have participated in the development of this script```
 
