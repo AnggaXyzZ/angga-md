@@ -56,7 +56,8 @@ git clone https://github.com/AnggaXyzZ/angga-md
 cd naze
 npm install
 ```
-## <h1 align="center">AnggaXyzz</h1>
+## BUILDPACK
+
 
 ## RECOMMENDED INSTALL ON TERMUX
 
