@@ -31,8 +31,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git clone https://github.com/nazedev/naze-md
-cd naze
+git clone https://github.com/AnggaXyzZ/angga-md
+cd angga-md
 npm install
 ```
 
@@ -52,10 +52,11 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/nazedev/naze-md
+git clone https://github.com/AnggaXyzZ/angga-md
 cd naze
 npm install
 ```
+## <h1 align="center">AnggaXyzz</h1>
 
 ## RECOMMENDED INSTALL ON TERMUX
 
@@ -97,4 +98,4 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me:
-* [`Saweria`](https://saweria.co/naze)
+* [`Saweria`](https://saweria.co/AnggaXyzz)
