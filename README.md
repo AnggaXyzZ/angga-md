@@ -42,8 +42,9 @@ $cd angga-md
 $yarn
 $node index.js
 
-#NOTE
-$ hanyalah Pembatas Jadi Gk Usah Di Ikuti
+# Note
+$ hanyalah Pembatas Jadi
+Gk Usah Di Ikuti
 ```
 ## BUILDPACK
 
@@ -81,7 +82,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`bintang`](https://github.com/Bintangp02)
 * [`ArullOfc`](https://github.com/Warikrr)
 * [`Naze Dev`](https://github.com/nazedev)
-* [
+* [`AnggaXyzz`](https://github.com/AnggaXyzZ)
 
 ```Thanks to all who have participated in the development of this script```
 
