@@ -32,19 +32,17 @@ npm install
 ## COMMAND SC TERMUX
 
 ```bash
-$pkg update && pkg upgrade
-$pkg install git -y
-$pkg install nodejs -y
-$pkg install ffmpeg -y
-$pkg install yarn
-$git clone https://github.com/AnggaXyzZ/angga-md
-$cd angga-md
-$yarn
-$node index.js
-
-#Note | $ hanyalah Pembatas Jadi
-          Gk Usah Di Ikuti
+pkg update && pkg upgrade
+pkg install git -y
+pkg install nodejs -y
+pkg install ffmpeg -y
+pkg install yarn
+git clone https://github.com/AnggaXyzZ/angga-md
+cd angga-md
+yarn
+node index.js
 ```
+
 ## BUILDPACK
 
 * [`FFMPEG`](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
