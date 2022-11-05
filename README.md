@@ -48,8 +48,10 @@ Gk Usah Di Ikuti
 ```
 ## BUILDPACK
 
+```bash
 * [`FFMPEG`](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest)
 * [`WEBP`](https://github.com/clhuang/heroku-buildpack-webp-binaries)
+```
 
 ## RECOMMENDED INSTALL ON TERMUX
 
