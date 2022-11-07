@@ -1,6 +1,6 @@
 /**
    * Create By Dika Ardnt.
-   * Recode By Naze Dev & AnggaXyzz
+   * Recode By Naze Dev
    * Contact Me on wa.me/6282113821188
    * Follow https://github.com/nazedev
 */
@@ -116,15 +116,15 @@ async function startNaze() {
        }
        let wm_nazedev = { url : ppgc }
        if (pea[0].announce == true) {
-       naze.send5ButImg(pea[0].id, `「 *Group Settings Change* 」\n\nGroup telah ditutup oleh admin, Sekarang hanya admin yang dapat mengirim pesan !`, `Group Settings Change Message by AnggaXyzz`, wm_nazedev, [])
+       naze.send5ButImg(pea[0].id, `「 *Group Settings Change* 」\n\nGroup telah ditutup oleh admin, Sekarang hanya admin yang dapat mengirim pesan !`, `Group Settings Change Message by 𝘼𝙣𝙜𝙜𝙖𝘽𝙤𝙩𝙯`, wm_anggadev, [])
        } else if(pea[0].announce == false) {
-       naze.send5ButImg(pea[0].id, `「 *Group Settings Change* 」\n\nGroup telah dibuka oleh admin, Sekarang peserta dapat mengirim pesan !`, `Group Settings Change Message by AnggaXyzz`, wm_nazedev, [])
+       naze.send5ButImg(pea[0].id, `「 *Group Settings Change* 」\n\nGroup telah dibuka oleh admin, Sekarang peserta dapat mengirim pesan !`, `Group Settings Change Message by 𝘼𝙣𝙜𝙜𝙖𝘽𝙤𝙩𝙯`, wm_anggadev, [])
        } else if (pea[0].restrict == true) {
-       naze.send5ButImg(pea[0].id, `「 *Group Settings Change* 」\n\nInfo group telah dibatasi, Sekarang hanya admin yang dapat mengedit info group !`, `Group Settings Change Message by AnggaXyzz`, wm_nazedev, [])
+       naze.send5ButImg(pea[0].id, `「 *Group Settings Change* 」\n\nInfo group telah dibatasi, Sekarang hanya admin yang dapat mengedit info group !`, `Group Settings Change Message by 𝘼𝙣𝙜𝙜𝙖𝘽𝙤𝙩𝙯`, wm_anggadev, [])
        } else if (pea[0].restrict == false) {
-       naze.send5ButImg(pea[0].id, `「 *Group Settings Change* 」\n\nInfo group telah dibuka, Sekarang peserta dapat mengedit info group !`, `Group Settings Change Message by AnggaXyzz`, wm_nazedev, [])
+       naze.send5ButImg(pea[0].id, `「 *Group Settings Change* 」\n\nInfo group telah dibuka, Sekarang peserta dapat mengedit info group !`, `Group Settings Change Message by 𝘼𝙣𝙜𝙜𝙖𝘽𝙤𝙩𝙯`, wm_anggadev, [])
        } else {
-       naze.send5ButImg(pea[0].id, `「 *Group Settings Change* 」\n\nGroup Subject telah diganti menjadi *${pea[0].subject}*`, `Group Settings Change Message by AnggaXyzz`, wm_nazedev, [])
+       naze.send5ButImg(pea[0].id, `「 *Group Settings Change* 」\n\nGroup Subject telah diganti menjadi *${pea[0].subject}*`, `Group Settings Change Message by 𝘼𝙣𝙜𝙜𝙖𝘽𝙤𝙩𝙯`, wm_anggadev, [])
      }
     })
 
@@ -162,7 +162,7 @@ async function startNaze() {
                 let butleav = [{ buttonId: 'subsyt', buttonText: { displayText: 'Sayonara👋' }, type: 1 }]
                 let butselamat = [{ buttonId: '', buttonText: { displayText: 'SELAMAT' }, type: 1 }]
                 let butsebar = [{ buttonId: '', buttonText: { displayText: 'SABAR' }, type: 1 }]
-                let nyoutube = ('© AnggaXyzz\nYoutube/Sc :\nhttps://youtube.com/channel/UCY89Fb9pCVUeMqEGikvOhNQ')
+                let nyoutube = ('© Naze\nYoutube/Sc :\nhttps://youtube.com/c/Nazedev')
                 let teks1 = `*Halo Kak @${num.split('@')[0]}*\n*Selamat Datang Di Grup*\n*${metadata.subject}*\n*Jangan Lupa Intro Yahh*\n_~Admin_`
                 let teks2 = `*Selamat Tinggal Kak @${num.split('@')[0]}*\n*Semoga Tenang Di Alam Sana*\n_~Admin_`
                 let teks3 = `*@${num.split('@')[0]} Promote From*\n*${metadata.subject}*\n*Selamat Anda Menjadi Admin*\n_~Jangan Semena Mena!_`
